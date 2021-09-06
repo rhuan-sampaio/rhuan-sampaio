@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Rhuan Sampaio, web developer, systems analysis and development student and tech enthusiast.
+I'm Rhuan Sampaio, web developer, systems analysis and development student and a tech enthusiast.
 
   <div>
   <h2> Contact me </h2>
